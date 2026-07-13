@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# Personal inputs and generated outputs
+inputs/
+outputs/
+
+# Editor settings and temporary files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
